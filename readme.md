@@ -9,7 +9,7 @@ This repository is meant as an example on how one can create a click to dial fun
 
 # How to use
 
-1. `git clone https://github.com/andrej-s/twlo-clicktodial`
+1. `git clone https://github.com/bdhami/clickToCall`
 2.  `cd twlo-clicktodial`
 3. `npm install`
 4. `cp .env.example .env`
