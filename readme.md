@@ -1,4 +1,4 @@
-# Twilio Flex Click to Dial
+# Twilio Flex Click to call from 
 
 This repository is meant as an example on how one can create a click to dial functionality for internal agents. **This code is not meant to be deployed to production as it might contain security vulnerabilities.**
 
